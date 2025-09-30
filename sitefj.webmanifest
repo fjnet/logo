@@ -1,0 +1,29 @@
+{
+  "name": "FJ Telecom",
+  "short_name": "FJTelecom",
+  "start_url": "https://fjtelecom.net.br/",
+  "scope": "https://fjtelecom.net.br/",
+  "icons": [
+    {
+      "src": "https://cdn.jsdelivr.net/gh/fjnet/logo@main/favicon-96x96.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/fjnet/logo@main/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/fjnet/logo@main/fjfibra.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "orientation": "portrait"
+}
